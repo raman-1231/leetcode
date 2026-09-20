@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/raman-1231/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/raman-1231/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/raman-1231/leetcode/tree/master/0344-reverse-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/raman-1231/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raman-1231/leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/raman-1231/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
