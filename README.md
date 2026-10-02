@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/raman-1231/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raman-1231/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/raman-1231/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/raman-1231/leetcode/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/raman-1231/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raman-1231/leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3866-first-unique-even-element](https://github.com/raman-1231/leetcode/tree/master/3866-first-unique-even-element) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raman-1231/leetcode/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/raman-1231/leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2761-prime-pairs-with-target-sum](https://github.com/raman-1231/leetcode/tree/master/2761-prime-pairs-with-target-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/raman-1231/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
