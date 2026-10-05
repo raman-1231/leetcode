@@ -147,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/raman-1231/leetcode/tree/master/0739-daily-temperatures) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/raman-1231/leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
