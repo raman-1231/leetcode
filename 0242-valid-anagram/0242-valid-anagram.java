@@ -3,13 +3,33 @@ import java.util.Arrays;
 class Solution {
     public boolean isAnagram(String s, String t) {
 
-        char [] a = s.toCharArray();
-        char [] b = t.toCharArray();
-        Arrays.sort(a);
-        Arrays.sort(b);
-        if(Arrays.equals(a,b)){
-            return true;
+        if (s.length()!=t.length()) return false;
+        HashMap <Character,Integer> map = new HashMap<>();
+        for (int i = 0;i<s.length();i++){
+            char ch = s.charAt(i);
+            map.put(ch,map.getOrDefault(ch,0)+1);
         }
-        return false;
+        for (int i = 0;i<s.length();i++){
+            char ch = t.charAt(i);
+            if (!map.containsKey(t.charAt(i))){ 
+                return false;
+            }
+            map.put(ch, map.get(ch) - 1);
+            if (map.get(ch) < 0) {
+                return false;
+            }
+        }
+        return true;
     }
 }
+
+        // char [] a = s.toCharArray();
+        // char [] b = t.toCharArray();
+        // Arrays.sort(a);
+        // Arrays.sort(b);
+        // if(Arrays.equals(a,b)){
+        //     return true;
+        // }
+        // return false;
+//     }
+// }
