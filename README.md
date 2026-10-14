@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/raman-1231/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/raman-1231/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/raman-1231/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/raman-1231/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/raman-1231/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raman-1231/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3866-first-unique-even-element](https://github.com/raman-1231/leetcode/tree/master/3866-first-unique-even-element) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/raman-1231/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/raman-1231/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raman-1231/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/raman-1231/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/raman-1231/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sliding Window
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/raman-1231/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/raman-1231/leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/raman-1231/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/raman-1231/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/raman-1231/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/raman-1231/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/raman-1231/leetcode/tree/master/0392-is-subsequence) |
 | [1446-consecutive-characters](https://github.com/raman-1231/leetcode/tree/master/1446-consecutive-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/raman-1231/leetcode/tree/master/3498-reverse-degree-of-a-string) |
