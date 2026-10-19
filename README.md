@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/raman-1231/leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/raman-1231/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/raman-1231/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raman-1231/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raman-1231/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/raman-1231/leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/raman-1231/leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/raman-1231/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/raman-1231/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raman-1231/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raman-1231/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/raman-1231/leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/raman-1231/leetcode/tree/master/0148-sort-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -169,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/raman-1231/leetcode/tree/master/0196-delete-duplicate-emails) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/raman-1231/leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/raman-1231/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
