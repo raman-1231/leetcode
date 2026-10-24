@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/raman-1231/leetcode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/raman-1231/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/raman-1231/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/raman-1231/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raman-1231/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/raman-1231/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/raman-1231/leetcode/tree/master/0189-rotate-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/raman-1231/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/raman-1231/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/raman-1231/leetcode/tree/master/0268-missing-number) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raman-1231/leetcode/tree/master/2761-prime-pairs-with-target-sum) |
