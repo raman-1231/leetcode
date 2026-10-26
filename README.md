@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/raman-1231/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/raman-1231/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/raman-1231/leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/raman-1231/leetcode/tree/master/0412-fizz-buzz) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raman-1231/leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 ## Bit Manipulation
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/raman-1231/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/raman-1231/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/raman-1231/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/raman-1231/leetcode/tree/master/0412-fizz-buzz) |
 | [1446-consecutive-characters](https://github.com/raman-1231/leetcode/tree/master/1446-consecutive-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/raman-1231/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/raman-1231/leetcode/tree/master/0412-fizz-buzz) |
 | [3498-reverse-degree-of-a-string](https://github.com/raman-1231/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
