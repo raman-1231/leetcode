@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/raman-1231/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/raman-1231/leetcode/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/raman-1231/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0941-valid-mountain-array](https://github.com/raman-1231/leetcode/tree/master/0941-valid-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/raman-1231/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raman-1231/leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3866-first-unique-even-element](https://github.com/raman-1231/leetcode/tree/master/3866-first-unique-even-element) |
