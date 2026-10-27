@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/raman-1231/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/raman-1231/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/raman-1231/leetcode/tree/master/0739-daily-temperatures) |
+| [0845-longest-mountain-in-array](https://github.com/raman-1231/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/raman-1231/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raman-1231/leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3866-first-unique-even-element](https://github.com/raman-1231/leetcode/tree/master/3866-first-unique-even-element) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/raman-1231/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/raman-1231/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/raman-1231/leetcode/tree/master/0392-is-subsequence) |
+| [0845-longest-mountain-in-array](https://github.com/raman-1231/leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raman-1231/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/raman-1231/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/raman-1231/leetcode/tree/master/0392-is-subsequence) |
+| [0845-longest-mountain-in-array](https://github.com/raman-1231/leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/raman-1231/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raman-1231/leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 ## Number Theory
 |  |
