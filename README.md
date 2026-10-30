@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/raman-1231/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/raman-1231/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/raman-1231/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/raman-1231/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raman-1231/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/raman-1231/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/raman-1231/leetcode/tree/master/0189-rotate-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/raman-1231/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/raman-1231/leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/raman-1231/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/raman-1231/leetcode/tree/master/0268-missing-number) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raman-1231/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/raman-1231/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/raman-1231/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/raman-1231/leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/raman-1231/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/raman-1231/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -218,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raman-1231/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/raman-1231/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/raman-1231/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
